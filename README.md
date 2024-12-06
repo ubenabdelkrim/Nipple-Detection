@@ -12,11 +12,6 @@ This project implements an algorithm for automatic nipple detection in breast th
   - [2. Nipple Candidate Detection](#2-nipple-candidate-detection)
   - [3. Nipple Selection](#3-nipple-selection)
 - [Results](#results)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [File Structure](#file-structure)
-- [References](#references)
-- [License](#license)
 
 ---
 
